@@ -1,4 +1,4 @@
-👋 Hi, I’m @jamesrwoodruff, Programmer of Java and other stuff.
+👋 Hi, I’m @jamesrwoodruff, programmer of Java and other stuff.
 
 <!---
 jamesrwoodruff/jamesrwoodruff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
